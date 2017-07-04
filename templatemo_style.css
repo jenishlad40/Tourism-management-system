@@ -1,0 +1,220 @@
+/*
+CSS Credit: http://www.templatemo.com/
+*/
+
+
+
+h1 {
+	font-size: 50px;
+	color: #990099;
+	font-weight: bolder;
+	height: 50px;
+	padding-top: 40px;
+	padding-left: 70px;
+	
+	
+}		
+font {
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size:30px;
+}
+td{
+	color: #333;
+}
+
+#templatemo_search {
+	
+	padding: 0px 0px 0px 0px;
+	width: 450px;
+	}
+.search_top {
+	background: url(images/tra_ser.jpg) no-repeat;
+	width: 300px;
+	height:76px;
+	
+}
+.search_bot {
+	background: url(images/templatemo_search_bot.jpg) no-repeat;
+	height: 11px;
+}
+.contact{
+	margin: 2% 0;
+	background: #FFF;
+	padding: 4%;
+	
+}
+.sarch_mid{
+	width:300px;
+	background:#999;
+	height:250px;	
+}	
+
+
+.contact-form{
+	float: left;
+	width: 60%;
+	
+}
+.contact-form span label{
+	color: #202227;
+	display: block;
+	font-size: 1em;
+	padding-bottom: 5px;
+}
+.contact-form input[type="text"] {
+	margin-bottom:4%;
+	font-family: 'nexa_lightregular';
+	font-size:1em;
+	float:left;
+	width:50%;
+	background:#333333;
+	border: 1px solid #E7E7E7;
+	color:#FFF;
+	padding: 5px;
+	display: block;
+	outline: none;
+	-webkit-appearance: none;
+	text-transform: capitalize;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+}
+.contact-form input[type="password"] {
+	margin-bottom:4%;
+	font-family: 'nexa_lightregular';
+	font-size:1em;
+	float:left;
+	width:50%;
+	background:#333333;
+	border: 1px solid #E7E7E7;
+	color:#FFF;
+	padding: 5px;
+	display: block;
+	outline: none;
+	-webkit-appearance: none;
+	text-transform: capitalize;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+}
+.contact-form input[type="radio"] {
+	margin-bottom:4%;
+	font-family: 'nexa_lightregular';
+	
+	float:left;
+	
+	
+	border: 1px solid #E7E7E7;
+	
+	
+	display: block;
+	outline: none;
+	-webkit-appearance: none;
+	text-transform: capitalize;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+}
+.contact-form input[type="text"].right{
+	margin-right: 10px;
+}
+.contact-form input[type="text"]:hover{
+	border:1px solid #8F33C3;
+}
+.contact-form input[type="password"].right{
+	margin-right: 10px;
+}
+.contact-form input[type="password"]:hover{
+	border:1px solid #8F33C3;
+}
+.contact-form input[type="date"].right{
+	margin-right: 10px;
+}
+.contact-form input[type="date"]:hover{
+	border:1px solid #8F33C3;
+}
+
+.contact-form input[type="submit"]{
+	margin-top:5%;
+	margin-right:70%;
+	font-family: 'nexa_lightregular';
+	cursor:pointer;
+	-webkit-appearance: none;
+	padding: 12px 30px;
+	border: 1px solid #ffffff;
+	background: #FF0000	;
+	display: inline-block;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #ffffff;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+	border-radius:10px;
+}
+.contact-form input[type="date"]{
+	margin-top:4%;
+	font-family: 'nexa_lightregular';
+	cursor:pointer;
+	-webkit-appearance: none;
+	width:50%;
+	padding: 12px 30px;
+	border: 1px solid #ffffff;
+	background: #3a3a3a;
+	display: inline-block;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #ffffff;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+}
+.contact-form select{
+	
+	margin-top:4%;
+	font-family: 'nexa_lightregular';
+	cursor:pointer;
+	-webkit-appearance: none;
+	padding: 12px 30px;
+	border: 1px solid #ffffff;
+	background: #F00;
+	display: inline-block;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #0000FF;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+	width:50%;
+}
+.contact-form input[type="submit"]:hover{
+	background: #8F33C3;
+}
+.contact-form input[type="reset"]:hover{
+	background: #8F33C3;
+}
+.contact-form input[type="reset"]{
+	margin-top:4%;
+	font-family: 'nexa_lightregular';
+	cursor:pointer;
+	-webkit-appearance: none;
+	padding: 12px 30px;
+	border: 1px solid #ffffff;
+	background: #3a3a3a;
+	display: inline-block;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #ffffff;
+	-webkit-transition: 0.9s;
+	-moz-transition: 0.9s;
+	-o-transition: 0.9s;
+	transition: 0.9s;
+}
+
+
